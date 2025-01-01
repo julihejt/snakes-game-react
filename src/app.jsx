@@ -1,5 +1,5 @@
 import React from "react";
-import Game from "./components/Game";
+import Game from "../src/components/Game";
 import "./App.css";
 
 function App() {
